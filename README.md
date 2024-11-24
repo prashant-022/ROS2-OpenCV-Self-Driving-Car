@@ -14,7 +14,7 @@
 ## About this Repository
 A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and perform Object tracking to act on the sign boards and set speed respectively
 
-[![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/9f28f842187c6bda71d64963a478234120c64e1d/Images_videos/thumbnail.png)](https://youtu.be/D5BkqDcfw2U "Click to Watch Intro Video on Youtube")
+[![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/9f28f842187c6bda71d64963a478234120c64e1d/Images_videos/thumbnail.png)]
 ----
 
 ## Features
