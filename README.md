@@ -19,40 +19,40 @@ A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and p
 
 ## Features
 * **Prius Hybrid Car**
-  -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/the_car.gif)
+  -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/the_car.gif)
 
 * **Satellite Navigation**
     * **Stage 1: Localiation**
 
-      -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/Sat_Nav/1_localization.gif)
+      -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/Sat_Nav/1_localization.gif)
 
     * **Stage 2: Mapping**
 
-      -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/Sat_Nav/2_mapping.gif)
+      -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/Sat_Nav/2_mapping.gif)
 
     * **Stage 3: Path-Planning**
 
-      -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/Sat_Nav/3_pathplanning.gif)
+      -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/Sat_Nav/3_pathplanning.gif)
 
     * **Stage 4: Motion-Planning**
 
-      -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/Sat_Nav/4_motionplanning.gif)
+      -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/Sat_Nav/4_motionplanning.gif)
   
 * **Lane Following**
-  -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/lane_detection.gif)
+  -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/lane_detection.gif)
 * **Sign Board Detection**
-  - ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/traffic_signs_boards.gif)
+  - ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/traffic_signs_boards.gif)
 * **Traffic Signal Recognition**
-  - ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/traffic_signal.gif)
+  - ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/traffic_signal.gif)
 
 * **T-Junction Navigation**
-  - ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/j_turning.gif)
+  - ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/j_turning.gif)
 
 * **The World**
-  -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/world.gif)
+  -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/world.gif)
 
 * **Custom Models**
-  -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/custom_models.gif)
+  -  ![alt text](https://github.com/prashant-022/ROS2-OpenCV-Self-Driving-Car/blob/3a4b8458764c3d9952fd7888c00c392742c69d22/Images_videos/custom_models.gif)
 
 ----
 
